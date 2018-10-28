@@ -4,7 +4,7 @@ cabal-version: 1.12
 --
 -- see: https://github.com/sol/hpack
 --
--- hash: 32e1a1cd87515b62c98d1a6edf3ff92eb721fddfaaa2130c04c380bef2e70a3e
+-- hash: 9c31c1aa10a3318e6f66a73a715c132186cbc48009c61218c712de72c2e6669d
 
 name:           hask-pad
 version:        0.0.0
@@ -29,6 +29,7 @@ library
       Handler.Comment
       Handler.Common
       Handler.Home
+      Handler.Note
       Handler.Profile
       Import
       Import.NoFoundation

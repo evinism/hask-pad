@@ -7,8 +7,12 @@
 /favicon.ico FaviconR GET
 /robots.txt RobotsR GET
 
-/ HomeR GET POST
+/home HomeR GET POST
 
 /comments CommentR POST
 
 /profile ProfileR GET
+
+/ HomeNoteR GET
+/note NoteR GET
+/new NewNoteR GET

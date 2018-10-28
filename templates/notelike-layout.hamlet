@@ -1,0 +1,25 @@
+<div id="note-list-wrapper" class="hidden">
+  <div>
+    <h2>
+      recent notes <br>---
+    <ul id="note-list">
+<textarea autofocus id="notepad" name="notepad">
+  ^{widget}
+<div class="command-strip">
+  <div class="command-button hidden" id="viewer-count-indicator">
+    <div id="viewer-count-number">
+      1
+  <a class="command-button hoverable" id="new-note" href="/new/" target="_blank">
+    <svg width="16" height="16">
+      <line x1="0" y1="8" x2="16" y2="8" stroke="#000" stroke-width="3"/>
+      <line x1="8" y1="0" x2="8" y2="16" stroke="#000" stroke-width="3"/>
+  <div class="command-button hoverable" id="list-toggler">
+    <svg width="16" height="16">
+      <line x1="0" y1="3" x2="3" y2="3" stroke="#000" stroke-width="3"/>
+      <line x1="5" y1="3" x2="16" y2="3" stroke="#000" stroke-width="2"/>
+
+      <line x1="0" y1="8" x2="3" y2="8" stroke="#000" stroke-width="3"/>
+      <line x1="5" y1="8" x2="16" y2="8" stroke="#000" stroke-width="2"/>
+
+      <line x1="0" y1="13" x2="3" y2="13" stroke="#000" stroke-width="3"/>
+      <line x1="5" y1="13" x2="16" y2="13" stroke="#000" stroke-width="2"/>

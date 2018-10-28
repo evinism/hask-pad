@@ -1,0 +1,10 @@
+<!doctype html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
+    <title>
+      quick-pad: note
+    <link rel="stylesheet" type="text/css" href="static/css/notelike.css"> 
+  <body>
+    ^{pageBody pc}
